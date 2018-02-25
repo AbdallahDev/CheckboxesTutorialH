@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Checkboxes Tutorial H</string>
+    <string name="checkbox_one">ioniq</string>
+    <string name="checkbox_two">Tesla</string>
+    <string name="checkbox_three">leaf</string>
+    <string name="button_view_result">View Result</string>
+    <string name="textView_Result">Nothing choosed</string>
+</resources>
